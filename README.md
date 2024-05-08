@@ -1,2 +1,2 @@
 # online-movie-ticket
-this is for booking online tickts
+This is for booking online tickets for the customers in the app.
